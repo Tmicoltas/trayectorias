@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@import './variables.css';
+@import './typography.css';
+@import './animations.css';
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  background:var(--background);
+  color:var(--text-primary);
+  overflow-x:hidden;
+}
+
+body::before{
+
+  content:'';
+
+  position:fixed;
+  inset:0;
+
+  background-image:
+  url("https://grainy-gradients.vercel.app/noise.svg");
+
+  opacity:.08;
+
+  pointer-events:none;
+
+  z-index:999;
+}
+
+::selection{
+  background:#8A2E2E;
+  color:white;
+}

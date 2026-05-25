@@ -1,0 +1,19 @@
+:root{
+
+    --background:#F4F0E8;
+    --background-dark:#111111;
+  
+    --paper:#E7DFD1;
+  
+    --text-primary:#111111;
+    --text-secondary:#5C5C5C;
+  
+    --accent:#8A2E2E;
+    --accent-soft:#6B7A5E;
+  
+    --border-soft:rgba(0,0,0,.08);
+  
+    --transition:
+    all 1.2s cubic-bezier(.19,1,.22,1);
+  
+  }
