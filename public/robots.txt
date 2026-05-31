@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tmicoltas.github.io/trayectorias/sitemap.xml
