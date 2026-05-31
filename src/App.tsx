@@ -8,10 +8,10 @@ const assetLinks = {
   notebook: 'https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1600',
   emptyClassroom: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1600',
   archive: 'https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=1600',
-  map: 'https://images.unsplash.com/photo-1569163139599-0f4517e36cfc?q=80&w=1600',
+  map: 'https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=1600',
   microscope: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1600',
-  bridge: 'https://images.unsplash.com/photo-1494501544968-91952ecc4075?q=80&w=1600',
-  butterflyBook: 'https://images.unsplash.com/photo-1457369804613-52bb61a2e774?q=80&w=1600',
+  bridge: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1600',
+  butterflyBook: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?q=80&w=1600',
 }
 
 const navItems = [
