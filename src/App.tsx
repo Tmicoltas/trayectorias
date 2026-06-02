@@ -216,8 +216,6 @@ function FindingsPage() {
               <FindingIllustration index={index} />
             </div>
             <div className="matrix-copy">
-              <span>Patrón encontrado</span>
-              <h2>{hallazgo.patron}</h2>
               <p>{hallazgo.participantes}</p>
               <h3>Relación teórica</h3>
               <p>{hallazgo.relacionTeorica}</p>
