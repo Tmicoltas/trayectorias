@@ -76,7 +76,7 @@ export const entrevistadosData: Entrevistado[] = [
       interes: 'La co-creación horizontal de conocimiento',
       imaginabaEnsenando: 'No al inicio; lo veía como algo técnico-instrumental',
       tipoMotivacion: 'Instrumental / Social',
-      frase: '"No tenía interés en ser docente de un colegio"19',
+      frase: '"No tenía interés en ser docente de un colegio"',
     },
     aprendizajesClave: [
       'Diseño de Aprendizaje 3: Enfoque de inclusión y realidades crudas',
@@ -94,8 +94,8 @@ export const entrevistadosData: Entrevistado[] = [
     identidadDocente: 'Sí, es parte de su identidad profesional',
     citasTextuales: [
       'Rechazo al aula escolar: "No, no, no, no... no tenía interés en ser docente de un colegio"',
-      'El aula como laboratorio social: "Me empiezo a dar cuenta que las aulas son estos micro universos sociales en donde hay una diversidad de personas, de creencias, de prejuicios... donde al final una sociología pues estudia y lee"13.',
-      'Concepto de vocación: "Servir no significa como en términos de valores tradicionales religiosos, sino servir en términos de dar... esta sensación de a mí me gusta y dar y dar y dar"45',
+      'El aula como laboratorio social: "Me empiezo a dar cuenta que las aulas son estos micro universos sociales en donde hay una diversidad de personas, de creencias, de prejuicios... donde al final una sociología pues estudia y lee"',
+      'Concepto de vocación: "Servir no significa como en términos de valores tradicionales religiosos, sino servir en términos de dar... esta sensación de a mí me gusta y dar y dar y dar"',
       '"Servir no significa valores religiosos, sino dar y dar y dar"',
     ],
     momentosDeQuiebre: [
@@ -192,12 +192,12 @@ export const entrevistadosData: Entrevistado[] = [
       'Diseño instruccional, consultoría, programas virtuales y docencia superior como formas diferenciadas de enseñar',
     ],
     definicionVocacion: 'Una pasión profunda y una disposición de cuidado hacia el otro',
-    satisfaccionDocente: 'Sí, especialmente con públicos de bachillerato y universidad1135',
+    satisfaccionDocente: 'Sí, especialmente con públicos de bachillerato y universidad',
     compromisoEducativo: 'ALTO',
     identidadDocente: 'Sí, aunque diferenciada (consultoría/docencia superior)',
     citasTextuales: [
-      'Deseo inicial incierto: "En ese momento no tenía muy claro si quería enseñar pero sí sabía que tenía un interés genuino por la educación"6.',
-      'La escuela como refugio: "Sería chévere volver a ese lugar seguro que era la escuela en el sentido de que cuando yo estaba en el colegio disfrutaba mucho estar ahí compartiendo"7.',
+      'Deseo inicial incierto: "En ese momento no tenía muy claro si quería enseñar pero sí sabía que tenía un interés genuino por la educación"',
+      'La escuela como refugio: "Sería chévere volver a ese lugar seguro que era la escuela en el sentido de que cuando yo estaba en el colegio disfrutaba mucho estar ahí compartiendo"',
       'Vocación diferenciada: "Siento que son vocaciones distintas: una vocación para trabajar en colegio y otra vocación para trabajar en otros escenarios educativos que tiene mucho que ver con eso que uno puede llamar pasión o Ikigai"',
       '"Hace falta ser buena persona y tener una profunda vocación por la enseñanza"',
     ],
