@@ -72,7 +72,7 @@ export const entrevistadosData: Entrevistado[] = [
     },
     deseosIniciales: {
       ingreso: 'Para obtener herramientas de intervención social desde la sociología',
-      rechazo: 'Ser docente de un colegio tradicional1922',
+      rechazo: 'Ser docente de un colegio tradicional',
       interes: 'La co-creación horizontal de conocimiento',
       imaginabaEnsenando: 'No al inicio; lo veía como algo técnico-instrumental',
       tipoMotivacion: 'Instrumental / Social',
@@ -93,7 +93,7 @@ export const entrevistadosData: Entrevistado[] = [
     compromisoEducativo: 'ALTO',
     identidadDocente: 'Sí, es parte de su identidad profesional',
     citasTextuales: [
-      'Rechazo al aula escolar: "No, no, no, no... no tenía interés en ser docente de un colegio"12.',
+      'Rechazo al aula escolar: "No, no, no, no... no tenía interés en ser docente de un colegio"',
       'El aula como laboratorio social: "Me empiezo a dar cuenta que las aulas son estos micro universos sociales en donde hay una diversidad de personas, de creencias, de prejuicios... donde al final una sociología pues estudia y lee"13.',
       'Concepto de vocación: "Servir no significa como en términos de valores tradicionales religiosos, sino servir en términos de dar... esta sensación de a mí me gusta y dar y dar y dar"45',
       '"Servir no significa valores religiosos, sino dar y dar y dar"',
