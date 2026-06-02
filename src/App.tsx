@@ -221,7 +221,6 @@ function FindingsPage() {
               <p>{hallazgo.participantes}</p>
               <h3>Relación teórica</h3>
               <p>{hallazgo.relacionTeorica}</p>
-              <p>{hallazgo.visualizacion}</p>
             </div>
           </article>
         ))}
